@@ -1,0 +1,5 @@
+{
+  "name": "Alunos CPM",
+  "description": "Sistema para gestão de alunos e arquivamento de documentos digitalizados para o CPM.",
+  "requestFramePermissions": []
+}
